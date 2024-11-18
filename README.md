@@ -15,7 +15,6 @@ A simple task management tool where users can:
 ### 2. **Calculator**  
 A feature-rich calculator that supports:  
 - Basic operations: addition, subtraction, multiplication, and division.  
-- Advanced functions like square root, power.  
 
 ### 3. **Password Generator**  
 A secure password generator that:  
